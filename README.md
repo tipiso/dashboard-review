@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#In progress
+##In progress
+
 Example dashboard with CRUD.
 Frontend is done with React, Redux is used to manipulate and store data.
 Firebase is used as backend option.
