@@ -1,8 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
+#In progress
+Example dashboard with CRUD.
+Frontend is done with React, Redux is used to manipulate and store data.
+Firebase is used as backend option.
 
 ### `npm start`
 
